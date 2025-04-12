@@ -33,7 +33,7 @@ export default function Contact() {
                 </div>
                 <div>
                   <p className="text-gray-600">카카오톡 상담:</p>
-                  <a href="https://open.kakao.com/o/something" className="text-primary hover:underline">
+                  <a href="https://open.kakao.com/o/sJWucPqh" className="text-primary hover:underline">
                     @lcore_official
                   </a>
                 </div>
